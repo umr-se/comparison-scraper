@@ -33,6 +33,10 @@ A backend automation script built with **Flask** that scrapes and compares produ
    ```bash
    pip install -r requirements.txt
    ```
+3. **Run**
+   ```bash
+   flask --app "app" run
+   ```   
    
 
 
