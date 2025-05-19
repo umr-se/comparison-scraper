@@ -1,0 +1,10 @@
+flask
+uvicorn
+selenium
+beautifulsoup4
+requests
+undetected-chromedriver
+fake-useragent
+sentence-transformers 
+scikit-learn 
+fuzzywuzzy
