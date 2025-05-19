@@ -36,7 +36,9 @@ A backend automation script built with **Flask** that scrapes and compares produ
 3. **Run**
    ```bash
    flask --app "app" run
-   ```   
-   
+   ```
+4. **Result**      
+![Screenshot 2025-05-19 134845](https://github.com/user-attachments/assets/172390e5-2c10-4a28-9dda-6c6e73d28667)
+![Screenshot 2025-05-19 134933](https://github.com/user-attachments/assets/357956e0-c0f2-44f0-bf9d-7e82e1e97a24)
 
 
