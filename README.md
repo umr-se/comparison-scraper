@@ -29,7 +29,10 @@ A backend automation script built with **Flask** that scrapes and compares produ
    git clone https://github.com/umr-se/comparison-scraper.git
    cd comparison-scraper
    ```
-
+2. **Install Requirements.txt:**
+   ```bash
+   pip install -r requirements.txt
+   ```
    
 
 
